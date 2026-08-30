@@ -1,13 +1,5 @@
 {
   "shows": {
-    "PVFF|54265|20260901|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:45 AM",
-      "date": "20260901",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "299.00",
-      "status": "3"
-    },
     "PVFF|54265|20260901|PICTURE  PERFECT": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "07:45 AM",
@@ -39,13 +31,61 @@
       "cat": "EXTRA LEGROOM ROWS",
       "price": "299.00",
       "status": "2"
+    },
+    "PVFF|54265|20260901|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:45 AM",
+      "date": "20260901",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "299.00",
+      "status": "3"
+    },
+    "PVFF|54270|20260902|PRIME ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:45 AM",
+      "date": "20260902",
+      "cat": "PRIME ROWS",
+      "price": "390.00",
+      "status": "3"
+    },
+    "PVFF|54270|20260902|PICTURE  PERFECT": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:45 AM",
+      "date": "20260902",
+      "cat": "PICTURE  PERFECT",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PVFF|54270|20260902|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:45 AM",
+      "date": "20260902",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "PVFF|54270|20260902|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:45 AM",
+      "date": "20260902",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PVFF|54270|20260902|CLASSIC ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:45 AM",
+      "date": "20260902",
+      "cat": "CLASSIC ROWS",
+      "price": "260.00",
+      "status": "3"
     }
   },
   "dates": {
-    "20260830": "BOOKABLE",
+    "20260830": "AVAILABLE",
     "20260831": "AVAILABLE",
     "20260901": "AVAILABLE",
-    "20260902": "AVAILABLE",
+    "20260902": "BOOKABLE",
     "20260903": "NOT_OPEN",
     "20260904": "NOT_OPEN",
     "20260905": "NOT_OPEN"
