@@ -14,7 +14,7 @@
       "date": "20260905",
       "cat": "PICTURE  PERFECT",
       "price": "560.00",
-      "status": "2"
+      "status": "3"
     },
     "PVFF|54500|20260905|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -40,14 +40,6 @@
       "price": "470.00",
       "status": "3"
     },
-    "PVFF|54503|20260905|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:00 PM",
-      "date": "20260905",
-      "cat": "PICTURE  PERFECT",
-      "price": "690.00",
-      "status": "1"
-    },
     "PVFF|54503|20260905|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "07:00 PM",
@@ -55,6 +47,14 @@
       "cat": "PRIME ROWS",
       "price": "690.00",
       "status": "3"
+    },
+    "PVFF|54503|20260905|PICTURE  PERFECT": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:00 PM",
+      "date": "20260905",
+      "cat": "PICTURE  PERFECT",
+      "price": "690.00",
+      "status": "1"
     },
     "PVFF|54503|20260905|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -120,14 +120,6 @@
       "price": "470.00",
       "status": "3"
     },
-    "PVFF|54508|20260906|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:00 PM",
-      "date": "20260906",
-      "cat": "PICTURE  PERFECT",
-      "price": "690.00",
-      "status": "2"
-    },
     "PVFF|54508|20260906|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "07:00 PM",
@@ -135,6 +127,14 @@
       "cat": "PRIME ROWS",
       "price": "690.00",
       "status": "3"
+    },
+    "PVFF|54508|20260906|PICTURE  PERFECT": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:00 PM",
+      "date": "20260906",
+      "cat": "PICTURE  PERFECT",
+      "price": "690.00",
+      "status": "2"
     },
     "PVFF|54508|20260906|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
