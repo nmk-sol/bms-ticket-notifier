@@ -40,14 +40,6 @@
       "price": "340.00",
       "status": "3"
     },
-    "PVFF|54450|20260904|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:00 PM",
-      "date": "20260904",
-      "cat": "PICTURE  PERFECT",
-      "price": "600.00",
-      "status": "1"
-    },
     "PVFF|54450|20260904|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "07:00 PM",
@@ -55,6 +47,14 @@
       "cat": "PRIME ROWS",
       "price": "600.00",
       "status": "3"
+    },
+    "PVFF|54450|20260904|PICTURE  PERFECT": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:00 PM",
+      "date": "20260904",
+      "cat": "PICTURE  PERFECT",
+      "price": "600.00",
+      "status": "1"
     },
     "PVFF|54450|20260904|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -141,7 +141,7 @@
       "time": "07:00 PM",
       "date": "20260905",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "620.00",
+      "price": "670.00",
       "status": "3"
     },
     "PVFF|54503|20260905|CLASSIC PLUS ROWS": {
@@ -160,20 +160,20 @@
       "price": "550.00",
       "status": "3"
     },
+    "PVFF|54505|20260906|PICTURE  PERFECT": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:50 AM",
+      "date": "20260906",
+      "cat": "PICTURE  PERFECT",
+      "price": "610.00",
+      "status": "3"
+    },
     "PVFF|54505|20260906|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "07:50 AM",
       "date": "20260906",
       "cat": "PRIME ROWS",
       "price": "610.00",
-      "status": "3"
-    },
-    "PVFF|54505|20260906|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:50 AM",
-      "date": "20260906",
-      "cat": "PICTURE  PERFECT",
-      "price": "560.00",
       "status": "3"
     },
     "PVFF|54505|20260906|EXTRA LEGROOM ROWS": {
