@@ -119,133 +119,13 @@
       "cat": "CLASSIC ROWS",
       "price": "320.00",
       "status": "3"
-    },
-    "PVFF|54717|20260909|PRIME ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:50 AM",
-      "date": "20260909",
-      "cat": "PRIME ROWS",
-      "price": "390.00",
-      "status": "3"
-    },
-    "PVFF|54717|20260909|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:50 AM",
-      "date": "20260909",
-      "cat": "PICTURE  PERFECT",
-      "price": "340.00",
-      "status": "3"
-    },
-    "PVFF|54717|20260909|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:50 AM",
-      "date": "20260909",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "320.00",
-      "status": "3"
-    },
-    "PVFF|54717|20260909|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:50 AM",
-      "date": "20260909",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "280.00",
-      "status": "3"
-    },
-    "PVFF|54717|20260909|CLASSIC ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:50 AM",
-      "date": "20260909",
-      "cat": "CLASSIC ROWS",
-      "price": "260.00",
-      "status": "3"
-    },
-    "PVFF|54720|20260909|PRIME ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:00 PM",
-      "date": "20260909",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "PVFF|54720|20260909|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:00 PM",
-      "date": "20260909",
-      "cat": "PICTURE  PERFECT",
-      "price": "400.00",
-      "status": "3"
-    },
-    "PVFF|54720|20260909|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:00 PM",
-      "date": "20260909",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "PVFF|54720|20260909|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:00 PM",
-      "date": "20260909",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "PVFF|54720|20260909|CLASSIC ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "07:00 PM",
-      "date": "20260909",
-      "cat": "CLASSIC ROWS",
-      "price": "320.00",
-      "status": "3"
-    },
-    "PVFF|54721|20260909|PRIME ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "10:30 PM",
-      "date": "20260909",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "PVFF|54721|20260909|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "10:30 PM",
-      "date": "20260909",
-      "cat": "PICTURE  PERFECT",
-      "price": "400.00",
-      "status": "3"
-    },
-    "PVFF|54721|20260909|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "10:30 PM",
-      "date": "20260909",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "PVFF|54721|20260909|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "10:30 PM",
-      "date": "20260909",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "PVFF|54721|20260909|CLASSIC ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "10:30 PM",
-      "date": "20260909",
-      "cat": "CLASSIC ROWS",
-      "price": "320.00",
-      "status": "3"
     }
   },
   "dates": {
     "20260906": "AVAILABLE",
     "20260907": "AVAILABLE",
-    "20260908": "AVAILABLE",
-    "20260909": "BOOKABLE",
+    "20260908": "BOOKABLE",
+    "20260909": "AVAILABLE",
     "20260910": "NOT_OPEN",
     "20260911": "NOT_OPEN",
     "20260912": "NOT_OPEN"
