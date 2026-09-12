@@ -1,18 +1,18 @@
 {
   "shows": {
-    "PVFF|55122|20260914|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "08:50 AM",
-      "date": "20260914",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "900.00",
-      "status": "3"
-    },
     "PVFF|55122|20260914|PICTURE  PERFECT": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "08:50 AM",
       "date": "20260914",
       "cat": "PICTURE  PERFECT",
+      "price": "900.00",
+      "status": "3"
+    },
+    "PVFF|55122|20260914|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "08:50 AM",
+      "date": "20260914",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "900.00",
       "status": "3"
     },
@@ -40,6 +40,14 @@
       "price": "600.00",
       "status": "3"
     },
+    "PVFF|55124|20260914|PICTURE  PERFECT": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "03:35 PM",
+      "date": "20260914",
+      "cat": "PICTURE  PERFECT",
+      "price": "1100.00",
+      "status": "2"
+    },
     "PVFF|55124|20260914|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "03:35 PM",
@@ -48,13 +56,13 @@
       "price": "1100.00",
       "status": "3"
     },
-    "PVFF|55124|20260914|PICTURE  PERFECT": {
+    "PVFF|55124|20260914|CLASSIC ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "03:35 PM",
       "date": "20260914",
-      "cat": "PICTURE  PERFECT",
-      "price": "1100.00",
-      "status": "2"
+      "cat": "CLASSIC ROWS",
+      "price": "900.00",
+      "status": "3"
     },
     "PVFF|55124|20260914|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -71,23 +79,15 @@
       "cat": "CLASSIC PLUS ROWS",
       "price": "900.00",
       "status": "3"
-    },
-    "PVFF|55124|20260914|CLASSIC ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "03:35 PM",
-      "date": "20260914",
-      "cat": "CLASSIC ROWS",
-      "price": "900.00",
-      "status": "3"
     }
   },
   "dates": {
     "20260912": "AVAILABLE",
     "20260913": "AVAILABLE",
     "20260914": "BOOKABLE",
+    "20260915": "AVAILABLE",
     "20260916": "AVAILABLE",
     "20260917": "NOT_OPEN",
-    "20260918": "NOT_OPEN",
-    "20260919": "NOT_OPEN"
+    "20260918": "NOT_OPEN"
   }
 }
